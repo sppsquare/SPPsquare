@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm currently learning python and looking to use it with excel to forward my carrier further.
+Have interest in anime and online games.
+Looking for postivitity and have a very sociable nature.
 
 <!--
 **sppsquare/SPPsquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
